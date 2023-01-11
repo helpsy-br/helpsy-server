@@ -57,5 +57,64 @@
       "id": 5
     }
   ],
-  "situations":["Abuso","Angústia","Ansiedade","Autoconhecimento","Luto","Ciúmes","Relacionamento","Depressão","Estresse","Fobias","Insônia","Pânico","Burnout"]
+  "situations":["Abuso","Angústia","Ansiedade","Autoconhecimento","Luto","Ciúmes","Relacionamento","Depressão","Estresse","Fobias","Insônia","Pânico","Burnout"],
+  "news":[
+    {
+      "title":"Ambientes restauradores: por que ir à praia faz bem?",
+      "description": "Parece um pouco óbvio dizer que ir à praia pode fazer uma pessoa se restabelecer de uma condição de estresse, mas a ciência tem corroborado o efeito restaurador dos ambientes naturais. Esse tipo de relação tem sido foco em pesquisas na área da Psicologia Ambiental, que se dedica a temas que tratam da relação pessoa-ambiente, numa perspectiva interdisciplinar, propondo um olhar ampliado sobre como o ambiente afeta as pessoas e as pessoas afetam o ambiente (Pinheiro, Günther, & Guzzo, 2014).",
+      "image": "https://images.unsplash.com/photo-1600117994285-d098a5a271e4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80",
+      "redirect": "https://www.sbponline.org.br/2019/05/ambientes-restauradores-por-que-ir-a-praia-faz-bem"
+    },
+    {
+      "title":"Rir é preciso: conheça a ciência por trás do humor",
+      "description": "Sorrisos, risadas e gargalhadas. Todo mundo traz em si a função do humor desde a mais tenra infância. Claro que em algumas pessoas ela está tão escondida que nem parece existir – mas procurando bem, acabamos encontrando. Curioso pelo assunto desde pequeno, e a partir de bases teóricas científicas, Daniel Martins de Barros mostra em seu livro recém-publicado Rir é Preciso a relevância do tema e garante: há ciência por trás do humor. “O riso é um fenômeno físico, com origem neurológica e manifestação corporal”, define o professor da Faculdade de Medicina (FM) da USP ao Jornal da USP.",
+      "image": "https://images.unsplash.com/photo-1489278353717-f64c6ee8a4d2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "redirect": "https://jornal.usp.br/ciencias/ciencias-da-saude/rir-e-preciso-conheca-a-ciencia-por-tras-do-humor/"
+    },
+    {
+      "title":"Experimento mostra como diferentes odores podem influenciar a percepção visual de emoções",
+      "description": "Pesquisadores da USP mediram com que velocidade os participantes do estudo reconheciam expressões de alegria, tristeza, raiva, nojo ou medo. Voluntários foram inadvertidamente expostos a diferentes cheiros durante os testes",
+      "image": "https://images.unsplash.com/photo-1551690935-a9e6f0a7e788?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "redirect": "https://jornal.usp.br/ciencias/experimento-mostra-como-diferentes-odores-podem-influenciar-a-percepcao-visual-de-emocoes/"
+    },
+    {
+      "title":" Número de brasileiros com transtornos mentais preocupa especialistas",
+      "description": "O aumento no número de brasileiros com transtornos mentais revela uma segunda pandemia vivida pela população. Segundo o Departamento de Informática do Sistema Único de Saúde (Datasus), o total de óbitos no País por lesões autoprovocadas dobrou nos últimos 20 anos, passando de 7 mil para 14 mil. A duplicação neste número de mortes no pós-pandemia levanta preocupações com a condição psicológica dos brasileiros.",
+      "image": "https://i0.wp.com/jornal.usp.br/wp-content/uploads/2022/08/20200804_saude-mental.jpg?w=1200&ssl=1",
+      "redirect": "https://jornal.usp.br/atualidades/numero-de-brasileiros-com-transtornos-mentais-preocupa-especialistas/"
+    }
+  ],
+  "testimony":[
+    {
+      "name": "João",
+      "text": "Fiz a primeira consulta com o Saymon e foi ótimo. Me deixou muito confortável para me expor e me deu vários esclarecimentos e futuras estratégias sobre os meus anseios",
+      "data": "5 de Janeiro de 2023",
+      "rank": 4.5
+    },
+    {
+      "name": "Felipe",
+      "text": "Sessão foi interessante, foi a primeira então contei mais sobre pontos que já tinha observado e escutei sobre como seria a abordagem do processo. Me deixou curioso para saber mais!",
+      "data": "7 de Janeiro de 2023",
+      "rank": 5
+    },
+    {
+      "name": "Maria",
+      "text": "Fiz a primeira consulta com o Saymon e foi ótimo. Me deixou muito confortável para me expor e me deu vários esclarecimentos e futuras estratégias sobre os meus anseios",
+      "data": "12 de Janeiro de 2023",
+      "rank": 4.5
+    },
+    {
+      "name": "Flávia",
+      "text": "Aprendi que mudar dói, mas que não mudar pode ser fatal!!!! gratidão pela excelente profissional que me acolheu e entendeu.",
+      "data": "22 de Dezembro de 2022",
+      "rank": 4
+    },
+    {
+      "name": "Danielli",
+      "text": "Parabéns a plataforma pelo projeto, o aplicativo é excepcional e a profissional um exemplo de humanidade e competência!!!! Me senti muito bem acolhida na minha dor!",
+      "data": "12 de Dezembro de 2022",
+      "rank": 5
+    }
+    
+  ]
 }
