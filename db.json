@@ -21,7 +21,7 @@
       "email": "golimar4@mail.com",
       "password": "$2a$10$hKo28O1ys.r7KnZHBaE7j.q4Pt..AfhkycCf/AqxaICPSU/WzzJnG",
       "age": "24",
-      "volunteer": "true",
+      "volunteer": true,
       "id": 4
     },
     {
@@ -31,7 +31,7 @@
     },
     {
       "email": "giovanni@mail.com",
-      "volunteer": "true",
+      "volunteer": true,
       "id": 6,
       "name": "Giovanni",
       "address": "Curitiba - PR",
@@ -42,7 +42,7 @@
     },
     {
       "email": "jorge@mail.com",
-      "volunteer": "true",
+      "volunteer": true,
       "id": 7,
       "name": "Jorge",
       "address": "Curitiba - PR",
@@ -53,7 +53,7 @@
     },
     {
       "email": "leticia@mail.com",
-      "volunteer": "true",
+      "volunteer": true,
       "id": 8,
       "name": "Letícia",
       "address": "Curitiba - PR",
@@ -61,33 +61,62 @@
       "crp": 122256789,
       "experience": 0,
       "specialty": ["Ansiedade","Luto"]
+    },
+    {
+      "email": "loki@mail.com",
+      "volunteer": false,
+      "id": 9,
+      "name": "Loki",
+      "address": "Santa Cruz do Sul - RS",
+      "age": 28,
+      "cpf": 12345678901,
+      "specialty": ["Ansiedade","Luto"]
+    },
+    {
+      "email": "odin@mail.com",
+      "volunteer": false,
+      "id": 10,
+      "name": "Odin",
+      "address": "Santa Cruz do Sul - RS",
+      "age": 82,
+      "cpf": 12345678902,
+      "specialty": ["Abuso","Depressão"]
     }
+  
   ],
   "meet": [
     {
-      "problems": "Relacionamento tóxico",
-      "userID": 3,
-      "id": 3,
-      "situation": true,
-      "professional": null,
-      "sessions": 0,
-      "lalala": "lalaal"
+      "id": 6,
+	    "userId": 10,
+	    "professionalId": null ,
+	    "situation": false,
+	    "description": "Não estou conseguindo dormir pois fico ansioso com a entrega dos meus projetos na Kenzie.",
+	    "sessions": 0,
+	    "problems": ["Ansiedade","Estresse"],
+	    "day": "Segunda-feira",
+	    "hour": "14"
     },
     {
-      "problems": "Relacionamento tóxico 2",
-      "situation": false,
-      "userID": 3,
-      "professional": null,
-      "sessions": 0,
-      "id": 4
+      "id": 7,
+	    "userId": 2,
+	    "professionalId": null ,
+	    "situation": false,
+	    "description": "Estou sem motivação para ir à academia, gostaria de ajuda pois sinto que minha motivação está se esvaindo aos poucos.",
+	    "sessions": 0,
+	    "problems": ["Depressão","Ansiedade"],
+	    "day": "Sábado",
+	    "hour": "12"
     },
     {
-      "problems": "Relacionamento tóxico 2",
-      "situation": false,
-      "userId": 3,
-      "professional": null,
-      "sessions": 0,
-      "id": 5
+      "id": 8,
+	    "userId": 3,
+	    "professionalId": null ,
+	    "situation": false,
+	    "description": "Não estou conseguindo dormir pois fico ansioso com a entrega dos meus projetos na Kenzie.",
+	    "sessions": 0,
+	    "problems": ["Ansiedade"],
+	    "day": "Terça-feira",
+	    "hour": "19"
     }
   ],
   "situations":["Abuso","Angústia","Ansiedade","Autoconhecimento","Luto","Ciúmes","Relacionamento","Depressão","Estresse","Fobias","Insônia","Pânico","Burnout"],
