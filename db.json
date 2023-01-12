@@ -28,6 +28,39 @@
       "email": "golimar6@mail.com",
       "password": "$2a$10$ChP9kRZu5KeWWOAMmThl.OKFx.YqL2n8.ivIeDLv92AVDFagv2kZC",
       "id": 5
+    },
+    {
+      "email": "giovanni@mail.com",
+      "volunteer": "true",
+      "id": 6,
+      "name": "Giovanni",
+      "address": "Curitiba - PR",
+      "age": 24,
+      "crp": 123456789,
+      "experience": 1,
+      "specialty": ["Ansiedade","Luto"]
+    },
+    {
+      "email": "jorge@mail.com",
+      "volunteer": "true",
+      "id": 7,
+      "name": "Jorge",
+      "address": "Curitiba - PR",
+      "age": 21,
+      "crp": 122256789,
+      "experience": 2,
+      "specialty": ["Ansiedade","Luto"]
+    },
+    {
+      "email": "leticia@mail.com",
+      "volunteer": "true",
+      "id": 8,
+      "name": "Letícia",
+      "address": "Curitiba - PR",
+      "age": 23,
+      "crp": 122256789,
+      "experience": 0,
+      "specialty": ["Ansiedade","Luto"]
     }
   ],
   "meet": [
